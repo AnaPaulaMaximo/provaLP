@@ -1,0 +1,42 @@
+1- Variávais locais valem em trechos específicos do código (ex: funções ou blocos de códigos). Já as variáveis globais valem para todo código em geral
+
+2- imagem do fluxograma anexada
+
+3- verdadeiro
+
+4- 5 4 3 2
+
+5- return n < 0;
+
+6- return n * n;
+
+
+7- int input 1
+
+   if input 1 % 4 == 0:
+	sout("esse número é divisível por 4")
+   else:
+	sout("esse número é divisível por 4")
+
+8- input 1
+   input 2
+   input 3
+   input 4
+   input 5
+   input 6
+   input 7
+   input 8
+
+   array = (input 1, input 2, input 3, input 4, input 5, input 6, input 7, input 8)
+
+   for (int 1 = 0; i < array length; i++){
+	if i % 2 !=0:
+		sout(i)}
+
+
+9- 
+
+
+ 
+
+	
